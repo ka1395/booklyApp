@@ -5,6 +5,9 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+Bookly App	bookly is flutter project made with MVVM Architecture Patterns .it show free books from Google API and see the rating and details, of book with search 
+the book you looking for with some animation and handling alot of errors
+ 
 
 A few resources to get you started if this is your first Flutter project:
 
